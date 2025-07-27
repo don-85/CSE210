@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.exe
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.deps.json
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.dll
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.pdb
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.dll
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\refint\OnlineOrderingApp.dll
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.pdb
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CSE210\OnlineOrderingApp\obj\Debug\net9.0\ref\OnlineOrderingApp.dll
