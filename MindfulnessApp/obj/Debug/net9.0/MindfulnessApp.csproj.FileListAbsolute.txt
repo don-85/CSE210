@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.exe
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.deps.json
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.dll
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\bin\Debug\net9.0\MindfulnessApp.pdb
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.dll
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\refint\MindfulnessApp.dll
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.pdb
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\MindfulnessApp.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CSE210\MindfulnessApp\obj\Debug\net9.0\ref\MindfulnessApp.dll
